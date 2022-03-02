@@ -1,29 +1,23 @@
 # buku-resep-client
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+## Preparation
+Untuk Bisa Menjalankan Aplikasi ini membutuhkan beberapa technology berikut:
+* **Node.js** 
+## Instalasi
+Clone Repository ini:
+```
+https://github.com/Rakandiya/buku-resep-client.git
+```
+Buka terminal lalu ke folder repository. Lalu install package yang dibutuhkan menggunakan ***npm*** dengan command:
+```
 npm install
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
+Jalankan aplikasi ini dengan command:
+```
 npm run dev
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+Bukan Browser dan akses:
 ```
+http://localhost:3000/
+```
+Maka akan diarahkan ke halaman Login. Jika tidak memiliki akun, maka anda dapat melakukan register terlebih dahulu.
